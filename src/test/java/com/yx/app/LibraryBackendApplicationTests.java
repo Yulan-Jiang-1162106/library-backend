@@ -1,4 +1,4 @@
-package com.yx.librarybackend;
+package com.yx.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
